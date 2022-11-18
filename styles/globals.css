@@ -23,7 +23,7 @@ footer {
 	text-decoration: overline;
 	position: absolute;
 	bottom: 0;
-	height: 200px;
+	height: 10vh;
 	width: 100%;
 	overflow: hidden;
 }
